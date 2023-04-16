@@ -1,3 +1,4 @@
+
 # ChatGPT-Uncensored
 ## For Educational Purpose Only
 
@@ -5,10 +6,21 @@
 
 🔥You can ask any type of personal questions to ChatGPT
 
-🎥Watch video to know how to bypass ChatGPT Filter
-I am using kali linux
-Open terminal 
-Get Super User Access Via
+🎥Watch video to know how to bypass ChatGPT Filter and get uncensored results
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=VTrC-GOcaSc"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+ - I am using kali linux.
+ - Open terminal
+ - Get Super User Access Via
 
     sudo su
 
@@ -22,8 +34,8 @@ Get Super User Access Via
     git clone https://github.com/o3t1w/ChatGPT-Uncensored
     cd ChatGPT-Uncensored
 
-Go to beta.openai.com and create a token
-in terminal 
+ - Go to beta.openai.com and create a token
+ - in  terminal enter these commands one by one: 
 
     export CHATGPT_TOKEN=<api key>
 
@@ -31,4 +43,5 @@ in terminal
 
     bash chatgpt_uncensored.sh "ask your question"
 
-If you dont get any respons, just execute your question again to regenerate response.
+**! If you dont get any response, just execute your question again to regenerate response.**
+
