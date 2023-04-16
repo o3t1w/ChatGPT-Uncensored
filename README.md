@@ -31,3 +31,4 @@ in terminal
 
     bash chatgpt_uncensored.sh "ask your question"
 
+If you dont get any respons, just execute your question again to regenerate response.
